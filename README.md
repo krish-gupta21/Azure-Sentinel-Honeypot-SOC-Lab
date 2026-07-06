@@ -35,8 +35,6 @@ The project showcases the complete SOC workflow from infrastructure deployment t
 
 # 🏗️ Architecture
 
-<img width="1181" height="650" alt="soc lab arch" src="https://github.com/user-attachments/assets/fae87653-1d37-4f0f-9346-a8de6f2b1cef" />
-
 ```text
                 Internet
                     │
