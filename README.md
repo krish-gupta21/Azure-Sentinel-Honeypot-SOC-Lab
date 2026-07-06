@@ -100,18 +100,7 @@ Azure-Home-SOC-Lab/
 │   ├── 04-Log-Collection-and-Detection.md
 │   └── 05-Threat-Hunting-and-Analysis.md
 │
-├── queries/
-│   ├── failed-authentication.kql
-│   ├── successful-authentication.kql
-│   ├── top-attacking-ips.kql
-│   ├── targeted-usernames.kql
-│   └── logon-types.kql
-│
-└── screenshots/
-    ├── vm/
-    ├── log-analytics/
-    ├── sentinel/
-    └── analysis/
+└── queries.md
 ```
 
 ---
