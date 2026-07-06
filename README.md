@@ -89,7 +89,7 @@ Azure-Home-SOC-Lab/
 ├── LICENSE
 │
 ├── architecture/
-│   └── home-soc-lab.png
+│   └── Home_Soc_Lab_Architecure.png
 │
 ├── docs/
 │   ├── 01-Virtual-Machine-Deployment.md
