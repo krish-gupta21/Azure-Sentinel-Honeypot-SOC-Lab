@@ -46,8 +46,7 @@ A Windows Server 2025 virtual machine was deployed using the above configuration
 
 **Figure 2:** Successfully deployed Azure Virtual Machine
 
-<img width="1476" height="540" alt="image" src="https://github.com/user-attachments/assets/d2ba930a-8dc7-477f-baf5-003e99048ddc" />
-
+<img width="1476" height="540" alt="vm" src="https://github.com/user-attachments/assets/2a61f1aa-2708-4bc0-ba89-38621bf6355a" />
 
 ---
 
