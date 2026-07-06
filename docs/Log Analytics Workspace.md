@@ -26,21 +26,15 @@ A Log Analytics Workspace named **Win11-LogAnalyzer** was created within the sam
 
 ## Screenshots
 
-**Figure 4:** Log Analytics Workspace configuration.
+**Figure 1:** Log Analytics Workspace configuration.
 
-![Figure 4 - Log Analytics Workspace Configuration](../screenshots/log-analytics/law-configuration.png)
-
----
-
-**Figure 5:** Review and validation before workspace creation.
-
-![Figure 5 - Log Analytics Workspace Review](../screenshots/log-analytics/law-review.png)
+<img width="848" height="678" alt="Screenshot 2026-07-06 144753" src="https://github.com/user-attachments/assets/9f4aed34-ed73-4789-b559-ff39dbbc9d83" />
 
 ---
 
-**Figure 6:** Successfully created Log Analytics Workspace.
+**Figure 2:** Successfully created Log Analytics Workspace.
 
-![Figure 6 - Log Analytics Workspace Overview](../screenshots/log-analytics/law-overview.png)
+<img width="1822" height="387" alt="Screenshot 2026-07-06 144929" src="https://github.com/user-attachments/assets/2f84ae12-b262-439f-af68-77e656f424dc" />
 
 ---
 
