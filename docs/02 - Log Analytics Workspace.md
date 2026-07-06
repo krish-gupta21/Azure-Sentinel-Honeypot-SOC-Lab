@@ -34,7 +34,7 @@ A Log Analytics Workspace named **Win11-LogAnalyzer** was created within the sam
 
 **Figure 2:** Successfully created Log Analytics Workspace.
 
-<img width="1822" height="387" alt="Screenshot 2026-07-06 144929" src="https://github.com/user-attachments/assets/2f84ae12-b262-439f-af68-77e656f424dc" />
+<img width="1822" height="387" alt="workspace" src="https://github.com/user-attachments/assets/11d427f2-0469-4c4b-9fe0-e1f346c9ff03" />
 
 ---
 
