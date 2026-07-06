@@ -1,4 +1,4 @@
-# 🛡️ Azure Home SOC Lab using Microsoft Sentinel
+# 🛡️ Cloud-Based Home SOC Lab using Microsoft Sentinel
 
 > A cloud-based Home Security Operations Center (SOC) lab built on Microsoft Azure to simulate, collect, detect, and investigate real-world authentication attacks using Microsoft Sentinel and Kusto Query Language (KQL).
 
@@ -92,13 +92,13 @@ Azure-Home-SOC-Lab/
 │   └── Home_Soc_Lab_Architecure.png
 │
 ├── docs/
-│   ├── 01-Virtual-Machine-Deployment.md
-│   ├── 02-Log-Analytics-Workspace.md
-│   ├── 03-Microsoft-Sentinel-Configuration.md
-│   ├── 04-Log-Collection-and-Detection.md
-│   └── 05-Threat-Hunting-and-Analysis.md
+│   ├── 01 Virtual Machine Deployment.md
+│   ├── 02 Log Analytics Workspace.md
+│   ├── 03 Microsoft Sentinel Configuration.md
+│   ├── 04 Log Collection and Detection.md
+│   └── 05 Threat Hunting and Analysis.md
 │
-└── queries.md
+└── Queries.md
 ```
 
 ---
