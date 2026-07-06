@@ -193,7 +193,7 @@ A scheduled Microsoft Sentinel Analytics Rule was created to automatically detec
 
 ---
 
-## Disclaimer
+# Disclaimer
 
 This project was developed for educational and defensive security purposes. The virtual machine was intentionally exposed to the internet in a controlled Azure lab environment to generate and analyze authentication events using Microsoft Sentinel. No unauthorized testing was performed against third-party systems.
 
